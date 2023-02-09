@@ -9,7 +9,5 @@ Object Oriented Programming (OOP):
 * OOP Concepts in Java
 
 Python:
-
-Mathematics:
 * Algebra with Python
 * Calculus with Python
