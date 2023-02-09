@@ -1,6 +1,6 @@
 # Learning
 A compilation of notes and code snippets I've used to learn different topics
-Some from classes, some from workshop events, and some from online tutorials
+<br>Some from classes, some from workshop events, and some from online tutorials
 
 C Lang:
 * C Lang Concepts
