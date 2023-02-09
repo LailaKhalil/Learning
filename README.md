@@ -5,7 +5,7 @@ C Lang:
 * C Lang Concepts
 * Data Structures & Algorithms in C
 
-OOP:
+Object Oriented Programming (OOP):
 * OOP Concepts in Java
 
 Python:
